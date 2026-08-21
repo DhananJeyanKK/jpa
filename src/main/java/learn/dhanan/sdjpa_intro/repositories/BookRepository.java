@@ -1,0 +1,9 @@
+package learn.dhanan.sdjpa_intro.repositories;
+
+import learn.dhanan.sdjpa_intro.domain.Book;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+
+public interface BookRepository extends JpaRepository<Book, Long> {
+
+}
