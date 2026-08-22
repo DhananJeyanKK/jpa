@@ -31,10 +31,6 @@ public class DataInitializer implements CommandLineRunner {
         /**
          * making some change in main - OK
          *
-         * sdfsdfsdfsdf
-         *
-         * Making same change and do the update
-         *
          */
 
 
