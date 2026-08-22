@@ -28,6 +28,8 @@ public class DataInitializer implements CommandLineRunner {
         Book savedBook = bookRepository.save(book);
         System.out.println(savedBook.getId());
 
+        //** adding this change in main
+
         Book book1 = new Book();
         book1.setTitle("SIA");
         book1.setIsbnl("111");
