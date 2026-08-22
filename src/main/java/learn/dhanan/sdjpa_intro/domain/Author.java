@@ -6,10 +6,6 @@ import jakarta.persistence.*;
 public class Author {
     /**
      * let me change something here
-     *
-     *
-     * sdfsdfsdf
-     *
      */
 
     @Id
