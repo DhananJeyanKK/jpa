@@ -37,6 +37,8 @@ public class DataInitializer implements CommandLineRunner {
          *
          * Some chagen in main
          *
+         * - I did an hotfix
+         *
          */
 
 
