@@ -4,6 +4,9 @@ import jakarta.persistence.*;
 
 @Entity
 public class Author {
+    /**
+     * let me change something here
+     */
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
