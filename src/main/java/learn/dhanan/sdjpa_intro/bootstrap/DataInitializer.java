@@ -28,8 +28,10 @@ public class DataInitializer implements CommandLineRunner {
         Book savedBook = bookRepository.save(book);
         System.out.println(savedBook.getId());
 
-        //** adding this change in main
-        //** modify this in rebasecheck
+        /**
+         * making some change in main - OK
+         *
+         */
 
 
         Book book1 = new Book();
